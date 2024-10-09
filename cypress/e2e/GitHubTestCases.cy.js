@@ -64,7 +64,7 @@ describe("Login en GitHub", () => {
   
 });
 
-describe("Buscar repositorio en GitHub",() => {
+describe("Buscar repositorio existente en GitHub",() => {
   const username = "monsalveemerson21@gmail.com";
   const password = "emerson-atehortua";
   
